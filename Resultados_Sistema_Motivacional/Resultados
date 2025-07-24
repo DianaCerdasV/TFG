@@ -1,0 +1,33 @@
+En este documento de Excel se encuentran los resultados obtenidos para las pruebas del sistema motivacional.
+El documento está dividido en páginas y por propósitos.
+
+Clasificar cilindros por color
+
+Página 1: 
+          Porpósito_cilindros_canastas: contiene los resultados de alineación y similitud semántica.
+Página 2: 
+          Misiones_cilindros_canastas: contiene los resultados de las misiones generadas para este propósito, cuátas son válidas e inválidas.
+Página 3:
+          Drives_cilindros_canasta : contiene todas las funciones de impulso generadas para el propósito de clasificar cilindros, así como la cantidad de funciones válidas e inválidas.
+
+
+Clasificar manzanas por color
+
+Página 4: 
+          Porpósito_clasificar_manzanas: contiene los resultados de alineación y similitud semántica para este propósito.
+Página 5: 
+          Misiones_clasificar_manzanas: contiene los resultados de las misiones generadas para este propósito, cuátas son válidas e inválidas.
+Página 6:
+          Drives_clasificar_manzanas : contiene todas las funciones de impulso generadas para el propósito de clasificar manzanas, así como la cantidad de funciones válidas e inválidas.
+
+
+
+Apilar cilindros en el centro de la mesa por tamaño
+
+Página 7: 
+          Porpósito_apilar_cilindros: contiene los resultados de alineación y similitud semántica para este propósito.
+Página 8: 
+          Misiones_apilar_cilindros: contiene los resultados de las misiones generadas para este propósito, cuátas son válidas e inválidas.
+Página 9:
+          Drives_apilar_cilindros: contiene todas las funciones de impulso generadas para el propósito de apilar cilindros, así como la cantidad de funciones válidas e inválidas.
+
