@@ -1,0 +1,4 @@
+Acá se incluyen las clases y códigos de python creados para integrar el sistema motivacional con la arquitectura e-MDB: https://docs.pillar-robots.eu/en/latest/
+
+Para poder ejecutar el experimento del TFG, se deben importar las clases y archivos de python de este repositorio en conjunto con la arquitectura
+cognitiva de la documentación adjunta.
