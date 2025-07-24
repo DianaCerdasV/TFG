@@ -1,0 +1,6 @@
+En esta carpeta se encuentra el código del sistema motivacional diseñado con los LLMs y la interfaz gráfica para interactuar con el sistema.
+
+Este documento de python debe estar en la misma carpeta que los prompts y demás archivos YAML para poder ser ejecutado.
+
+Para tener acceso a los modelos, se debe agregar el API_KEY y el enlace al servidor donde se tienen modelos locales.
+
